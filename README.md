@@ -15,7 +15,7 @@ The Fibonacci sequence is defined as:
 
 ## Installation
 ```bash
-git clone git@github.com:Cemrecicek/C-fibonacci.git
+git clone git@github.com:Cemrecicek/fibonacci.git
 
 ```
 
