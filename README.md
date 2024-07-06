@@ -16,6 +16,28 @@ The Fibonacci sequence is defined as:
 ## Installation
 ```bash
 git clone git@github.com:Cemrecicek/fibonacci.git
-
 ```
 
+
+## Building
+
+To build the program,navigate to the project directory and compile `main.c` using `gcc`:
+
+
+```
+cd fibonacci
+gcc -o fibonacci.exe main.c
+```
+
+
+## Running
+
+To run the compiled program, use this command:
+
+
+```
+./fibonacci.exe
+```
+
+
+This will print the first 100 Fibonacci numbers to the console.
